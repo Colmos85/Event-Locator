@@ -24,7 +24,7 @@ def main():
        choice = raw_input("Please enter coordinates (x,y):")
        matches = re.match("^([-+]?[0-9]|[-+]?10),([-+]?[0-9]|[-+]?10)$", choice)
           
-   if matches:
+   #if matches:
         #Do the rest of the search etc
                
        
